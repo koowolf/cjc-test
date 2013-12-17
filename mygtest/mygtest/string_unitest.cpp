@@ -37,5 +37,5 @@ TEST(StringCmpTest, Demo)
 
     EXPECT_STREQ(L"CoderZh", wstrCoderZh.c_str());
 
-	EXPECT_STREQ(L"1111111", wstrCoderZh.c_str());
+	EXPECT_STREQ(L"22222222", wstrCoderZh.c_str());
 }
